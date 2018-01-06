@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "Owner",
-    "ParameterValue": "Levon Becker"
+    "ParameterValue": "Ryland Bowles"
   },
   {
     "ParameterKey": "Project",
@@ -49,7 +49,7 @@
   },
   {
     "ParameterKey": "InstallChefdk",
-    "ParameterValue": "true"
+    "ParameterValue": "false"
   },
   {
     "ParameterKey": "ChefdkVersion",
@@ -65,10 +65,10 @@
   },
   {
     "ParameterKey": "Ec2KeyPair",
-    "ParameterValue": "bonusbits-dev"
+    "ParameterValue": "ryland_lab"
   },
   {
     "ParameterKey": "InstanceType",
-    "ParameterValue": "t2.small"
+    "ParameterValue": "t2.micro"
   }
 ]
